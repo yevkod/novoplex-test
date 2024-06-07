@@ -1,22 +1,18 @@
-import React, { ChangeEvent, useState } from 'react';
+import React, { ChangeEvent } from 'react';
 import s from './Input.module.scss';
 import { InputProps } from '@/types';
 
-export const Input: React.FC<InputProps> = ({
-  onSearch,
-}) => {
-  const [search, setSearch] = useState<string>('');
-
+export const Input = <T extends string>({ value, onChange }: InputProps<T>) => {
   const handleChange = (event: ChangeEvent<HTMLInputElement>) => {
-    const value = event.target.value;
-    setSearch(value);
-    onSearch(value);
+    const newValue = event.target.value as T;
+    onChange(newValue);
   };
+
   return (
     <div className={s.container}>
       <input
         type="text"
-        value={search}
+        value={value}
         onChange={handleChange}
         placeholder="Search for casinos..."
         className={s.input}

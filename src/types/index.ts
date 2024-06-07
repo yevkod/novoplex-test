@@ -9,13 +9,23 @@ export interface CasinoList {
     data: Casino[] | null;
 }
 
-export interface CasinoStore {
+interface CasinoState {
     casinoList: CasinoList;
-    setCasinoList: (casinoList: Casino[] | null) => void;
     error: boolean;
-    setError: (value: boolean) => void;
+    searchResults: Casino[];
+    searchQuery: string;
 }
 
-export interface InputProps {
-    onSearch: (search: string) => void;
+interface CasinoActions {
+    setCasinoList: (casinoList: Casino[] | null) => void;
+    setError: (value: boolean) => void;
+    setSearchResults: (results: Casino[]) => void;
+    setSearchQuery: (query: string) => void;
+}
+
+export interface CasinoStore extends CasinoState, CasinoActions { }
+
+export interface InputProps<T> {
+    value: T;
+    onChange: (value: T) => void;
 }

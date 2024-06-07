@@ -1,8 +1,9 @@
 .container {
     display: flex;
     justify-content: center;
+
     .title {
-        font-size: 65px;
+        font-size: clamp(48px, 5vw, 65px);
         font-weight: 700;
         color: white;
     }
