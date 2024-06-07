@@ -36,7 +36,7 @@ export const PopularCasinos = () => {
           ))}
         </div>
       ) : (
-        <div className={s.text}>Loading</div>
+        <div className={s.text}>Loading...</div>
       )}
     </div>
   );

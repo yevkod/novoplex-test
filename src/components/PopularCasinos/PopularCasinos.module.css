@@ -21,7 +21,8 @@
     background-color: #FFFFFF;
     }
     .text {
-        color: blue;
+        color: white;
+        font-weight: 700;
     }
 
     .title {

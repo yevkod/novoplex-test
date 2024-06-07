@@ -5,9 +5,13 @@ export interface Casino {
     photo_url: string;
 }
 
+export interface CasinoList {
+    data: Casino[] | null;
+}
+
 export interface CasinoStore {
-    casinoList: Casino[] | null;
-    setCasinoList: (casinoList: Casino[]) => void;
+    casinoList: CasinoList;
+    setCasinoList: (casinoList: Casino[] | null) => void;
     error: boolean;
     setError: (value: boolean) => void;
 }
