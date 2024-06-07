@@ -3,15 +3,21 @@
 Hello!
 
 If you want to start this project locally you need:
+
 1)Make git clone to your PC using terminal;
+
 2)Write yarn run install;
+
 3)Write yarn run dev.
 
 Enjoy my project!
 
 I used next libraries in this project:
+
 1)Axios;
+
 2)Zustand.
 
 I used next preprocessor in this project:
+
 1)Sass.
