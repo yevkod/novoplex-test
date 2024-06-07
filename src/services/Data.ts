@@ -7,15 +7,12 @@ const Data = () => {
     const getData = async () => {
         try {
             const response = await axios.get('/api/casinos');
-            if (response.status === 200) {
-                setState({ casinoList: response.data });
-            } else {
-                setState({ error: true });
-            }
+            response.status === 200
+                ? setState({ casinoList: response.data })
+                : setState({ error: true, errorMessage: 'Error while loading data...' });
         } catch (error) {
-            setState({ error: true });
-        } finally {
-            setState({ error: true });
+            const errorMessage = error instanceof Error ? error.message : typeof error === 'string' ? error : 'An unknown error occurred.';
+            setState({ error: true, errorMessage });
         }
     };
 

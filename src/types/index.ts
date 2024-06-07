@@ -12,6 +12,7 @@ export interface CasinoList {
 interface CasinoState {
     casinoList: CasinoList;
     error: boolean;
+    errorMessage?: string;
     searchResults: Casino[];
     searchQuery: string;
 }
