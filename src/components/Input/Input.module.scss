@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    margin: 20px auto;
+    width: 100%;
+    max-width: 550px;
+    .input {
+        display: flex;
+        width: 100%;
+        max-width: 550px;
+        padding: 10px;
+    }
+}

@@ -1,11 +1,9 @@
-.block {
+.container {
     display: flex;
-    width: 100vw;
-}
-
-.image {
-    display: flex;
-    width: 100vw;
-    transform: scale(.9);
-
+    justify-content: center;
+    .title {
+        font-size: 65px;
+        font-weight: 700;
+        color: white;
+    }
 }

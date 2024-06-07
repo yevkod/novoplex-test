@@ -1,5 +1,8 @@
 .main {
-    display: flex;
+    display: grid;
     background-color: gray;
     height: 100vh;
+    overflow-y: auto;
+    justify-content: center;
+    padding: 30px 0 50px 0;
 }

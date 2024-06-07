@@ -4,14 +4,8 @@ import s from './Header.module.scss';
 
 export const Header = () => {
   return (
-    <div className={s.block}>
-      <Image
-        src="/images/bigBanner.png"
-        alt="Big Banner"
-        className={s.image}
-        width={1200}
-        height={250}
-      />
+    <div className={s.container}>
+      <span className={s.title}>GGCasino</span>
     </div>
   );
 }
