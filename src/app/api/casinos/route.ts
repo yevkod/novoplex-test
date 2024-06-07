@@ -10,7 +10,6 @@ export async function GET() {
         try {
             await fs.access(filePath);
         } catch (accessError) {
-            console.error('File not found:', filePath);
             return NextResponse.json({ error: 'File not found' }, { status: 404 });
         }
 
@@ -24,7 +23,6 @@ export async function GET() {
 
         return response;
     } catch (error) {
-        console.error('Error reading JSON file:', error);
         return NextResponse.json({ error: 'Internal server error' }, { status: 500 });
     }
 }
