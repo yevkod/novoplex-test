@@ -5,301 +5,301 @@
       "id": 1,
       "name": "Golden Palace",
       "description": "Luxurious casino offering a wide range of games and entertainment.",
-      "photo_url": "https://example.com/images/golden_palace.jpg"
+      "photo": "/images/GoldenPalace.jpg"
     },
     {
       "id": 2,
       "name": "Royal Flush Casino",
       "description": "Experience the thrill of the best card games in town.",
-      "photo_url": "https://example.com/images/royal_flush_casino.jpg"
+      "photo": "/images/RoyalFlushCasino.jpg"
     },
     {
       "id": 3,
       "name": "Lucky Star Casino",
       "description": "A top destination for gamblers seeking great luck and big wins.",
-      "photo_url": "https://example.com/images/lucky_star_casino.jpg"
+      "photo": "/images/LuckyStarCasino.jpg"
     },
     {
       "id": 4,
       "name": "Emerald Isle Casino",
       "description": "A lush, green paradise where you can enjoy high-stakes gaming.",
-      "photo_url": "https://example.com/images/emerald_isle_casino.jpg"
+      "photo": "/images/EmeraldIsleCasino.jpg"
     },
     {
       "id": 5,
       "name": "Ocean Breeze Casino",
       "description": "Relax and gamble by the seaside with excellent views and games.",
-      "photo_url": "https://example.com/images/ocean_breeze_casino.jpg"
+      "photo": "/images/OceanBreezeCasino.jpg"
     },
     {
       "id": 6,
       "name": "Starlight Casino",
       "description": "Enjoy the best of gaming under the stars in this vibrant casino.",
-      "photo_url": "https://example.com/images/starlight_casino.jpg"
+      "photo": "/images/StarlightCasino.jpg"
     },
     {
       "id": 7,
       "name": "Mountain Peak Casino",
       "description": "High-altitude thrills with a wide variety of slot machines and tables.",
-      "photo_url": "https://example.com/images/mountain_peak_casino.jpg"
+      "photo": "/images/MountainPeakCasino.jpg"
     },
     {
       "id": 8,
       "name": "Desert Oasis Casino",
       "description": "A cool retreat in the desert with exciting games and big rewards.",
-      "photo_url": "https://example.com/images/desert_oasis_casino.jpg"
+      "photo": "/images/DesertOasisCasino.jpg"
     },
     {
       "id": 9,
       "name": "Sunset Valley Casino",
       "description": "Watch the sun set as you win big at this beautiful casino.",
-      "photo_url": "https://example.com/images/sunset_valley_casino.jpg"
+      "photo": "/images/SunsetValleyCasino.jpg"
     },
     {
       "id": 10,
       "name": "Crystal Lake Casino",
       "description": "Shimmering waters and shining wins await you at Crystal Lake.",
-      "photo_url": "https://example.com/images/crystal_lake_casino.jpg"
+      "photo": "/images/CrystalLakeCasino.jpg"
     },
     {
       "id": 11,
       "name": "Volcano's Edge Casino",
       "description": "Feel the heat of high-stakes gaming in this volcanic-themed casino.",
-      "photo_url": "https://example.com/images/volcanos_edge_casino.jpg"
+      "photo": "/images/VolcanosEdgeCasino.jpg"
     },
     {
       "id": 12,
       "name": "Neon Nights Casino",
       "description": "Bright lights, big wins, and nonstop action await you here.",
-      "photo_url": "https://example.com/images/neon_nights_casino.jpg"
+      "photo": "/images/NeonNightsCasino.jpg"
     },
     {
       "id": 13,
       "name": "Jungle Fever Casino",
       "description": "Wild times and exotic games in a jungle-themed environment.",
-      "photo_url": "https://example.com/images/jungle_fever_casino.jpg"
+      "photo": "/images/JungleFeverCasino.jpg"
     },
     {
       "id": 14,
       "name": "Arctic Chill Casino",
       "description": "Cool off with some hot wins at this icy-cool casino.",
-      "photo_url": "https://example.com/images/arctic_chill_casino.jpg"
+      "photo": "/images/ArcticChillCasino.jpg"
     },
     {
       "id": 15,
       "name": "Cosmic Casino",
       "description": "Explore the universe of gaming at this interstellar casino.",
-      "photo_url": "https://example.com/images/cosmic_casino.jpg"
+      "photo": "/images/CosmicCasino.jpg"
     },
     {
       "id": 16,
       "name": "Savannah Safari Casino",
       "description": "Adventure and excitement with a touch of the wild in this safari-themed casino.",
-      "photo_url": "https://example.com/images/savannah_safari_casino.jpg"
+      "photo": "/images/SavannahSafariCasino.jpg"
     },
     {
       "id": 17,
       "name": "Riverside Casino",
       "description": "Enjoy the serene riverside views while you try your luck at the tables.",
-      "photo_url": "https://example.com/images/riverside_casino.jpg"
+      "photo": "/images/RiversideCasino.jpg"
     },
     {
       "id": 18,
       "name": "Tropical Paradise Casino",
       "description": "A slice of paradise where you can win big under the palm trees.",
-      "photo_url": "https://example.com/images/tropical_paradise_casino.jpg"
+      "photo": "/images/TropicalParadiseCasino.jpg"
     },
     {
       "id": 19,
       "name": "Midnight Mirage Casino",
       "description": "A mystical place of endless gaming and magical wins.",
-      "photo_url": "https://example.com/images/midnight_mirage_casino.jpg"
+      "photo": "/images/MidnightMirageCasino.jpg"
     },
     {
       "id": 20,
       "name": "Diamond Dust Casino",
       "description": "Sparkling wins and glittering games in a luxurious setting.",
-      "photo_url": "https://example.com/images/diamond_dust_casino.jpg"
+      "photo": "/images/DiamondDustCasino.jpg"
     },
     {
       "id": 21,
       "name": "Ruby Red Casino",
       "description": "Feel the passion and excitement at this ruby-themed casino.",
-      "photo_url": "https://example.com/images/ruby_red_casino.jpg"
+      "photo": "/images/RubyRedCasino.jpg"
     },
     {
       "id": 22,
       "name": "Sapphire Sky Casino",
       "description": "Reach for the skies with massive wins in this elegant casino.",
-      "photo_url": "https://example.com/images/sapphire_sky_casino.jpg"
+      "photo": "/images/SapphireSkyCasino.jpg"
     },
     {
       "id": 23,
       "name": "Amethyst Aura Casino",
       "description": "A mystical, purple-hued haven for gamblers seeking big rewards.",
-      "photo_url": "https://example.com/images/amethyst_aura_casino.jpg"
+      "photo": "/images/AmethystAuraCasino.jpg"
     },
     {
       "id": 24,
       "name": "Emerald Dreams Casino",
       "description": "Dream big and win big in this luxurious emerald-themed casino.",
-      "photo_url": "https://example.com/images/emerald_dreams_casino.jpg"
+      "photo": "/images/EmeraldDreamsCasino.jpg"
     },
     {
       "id": 25,
       "name": "Platinum Palace Casino",
       "description": "Step into a world of platinum elegance and high-stakes gaming.",
-      "photo_url": "https://example.com/images/platinum_palace_casino.jpg"
+      "photo": "/images/PlatinumPalaceCasino.jpg"
     },
     {
       "id": 26,
       "name": "Cobalt Canyon Casino",
       "description": "Deep blue hues and deep pockets await you in this stunning casino.",
-      "photo_url": "https://example.com/images/cobalt_canyon_casino.jpg"
+      "photo": "/images/CobaltCanyonCasino.jpg"
     },
     {
       "id": 27,
       "name": "Golden Sands Casino",
       "description": "Feel the golden sands beneath your feet as you rake in the wins.",
-      "photo_url": "https://example.com/images/golden_sands_casino.jpg"
+      "photo": "/images/GoldenSandsCasino.jpg"
     },
     {
       "id": 28,
       "name": "Mystic Mountain Casino",
       "description": "Explore the mystic mountains and uncover hidden treasures.",
-      "photo_url": "https://example.com/images/mystic_mountain_casino.jpg"
+      "photo": "/images/MysticMountainCasino.jpg"
     },
     {
       "id": 29,
       "name": "Frosty Peaks Casino",
       "description": "Chill out and play your favorite games in this frosty wonderland.",
-      "photo_url": "https://example.com/images/frosty_peaks_casino.jpg"
+      "photo": "/images/FrostyPeaksCasino.jpg"
     },
     {
       "id": 30,
       "name": "Thunder Valley Casino",
       "description": "Hear the thunder of big wins and exciting games.",
-      "photo_url": "https://example.com/images/thunder_valley_casino.jpg"
+      "photo": "/images/ThunderValleyCasino.jpg"
     },
     {
       "id": 31,
       "name": "Sunshine Casino",
       "description": "Bright, sunny days and even brighter wins await you.",
-      "photo_url": "https://example.com/images/sunshine_casino.jpg"
+      "photo": "/images/SunshineCasino.jpg"
     },
     {
       "id": 32,
       "name": "Meteorite Casino",
       "description": "Experience the thrill of cosmic wins at Meteorite Casino.",
-      "photo_url": "https://example.com/images/meteorite_casino.jpg"
+      "photo": "/images/MeteoriteCasino.jpg"
     },
     {
       "id": 33,
       "name": "Phoenix Fire Casino",
       "description": "Rise from the ashes and claim your fortune at this fiery casino.",
-      "photo_url": "https://example.com/images/phoenix_fire_casino.jpg"
+      "photo": "/images/PhoenixFireCasino.jpg"
     },
     {
       "id": 34,
       "name": "Lavender Lagoon Casino",
       "description": "Relax in the soothing lavender atmosphere and win big.",
-      "photo_url": "https://example.com/images/lavender_lagoon_casino.jpg"
+      "photo": "/images/LavenderLagoonCasino.jpg"
     },
     {
       "id": 35,
       "name": "Crimson Cascade Casino",
       "description": "Experience the rush of cascading wins in this vibrant casino.",
-      "photo_url": "https://example.com/images/crimson_cascade_casino.jpg"
+      "photo": "/images/CrimsonCascadeCasino.jpg"
     },
     {
       "id": 36,
       "name": "Ivory Tower Casino",
       "description": "Step into a world of elegance and opulence at Ivory Tower Casino.",
-      "photo_url": "https://example.com/images/ivory_tower_casino.jpg"
+      "photo": "/images/IvoryTowerCasino.jpg"
     },
     {
       "id": 37,
       "name": "Bronze Bay Casino",
       "description": "Enjoy the warm, inviting atmosphere and exciting games.",
-      "photo_url": "https://example.com/images/bronze_bay_casino.jpg"
+      "photo": "/images/BronzeBayCasino.jpg"
     },
     {
       "id": 38,
       "name": "Silver Shore Casino",
       "description": "Shimmering silver sands and endless gaming opportunities.",
-      "photo_url": "https://example.com/images/silver_shore_casino.jpg"
+      "photo": "/images/SilverShoreCasino.jpg"
     },
     {
       "id": 39,
       "name": "Pearl Palace Casino",
       "description": "A luxurious haven of pearls and riches waiting to be discovered.",
-      "photo_url": "https://example.com/images/pearl_palace_casino.jpg"
+      "photo": "/images/PearlPalaceCasino.jpg"
     },
     {
       "id": 40,
       "name": "Turquoise Treasure Casino",
       "description": "Discover hidden treasures in this vibrant, turquoise-themed casino.",
-      "photo_url": "https://example.com/images/turquoise_treasure_casino.jpg"
+      "photo": "/images/TurquoiseTreasureCasino.jpg"
     },
     {
       "id": 41,
       "name": "Ivory Sands Casino",
       "description": "Feel the smooth, ivory sands and win big at this elegant casino.",
-      "photo_url": "https://example.com/images/ivory_sands_casino.jpg"
+      "photo": "/images/IvorySandsCasino.jpg"
     },
     {
       "id": 42,
       "name": "Garnet Grove Casino",
       "description": "A lush, green haven where big wins are waiting.",
-      "photo_url": "https://example.com/images/garnet_grove_casino.jpg"
+      "photo": "/images/GarnetGroveCasino.jpg"
     },
     {
       "id": 43,
       "name": "Amber Waves Casino",
       "description": "Golden amber waves of excitement and fun games.",
-      "photo_url": "https://example.com/images/amber_waves_casino.jpg"
+      "photo": "/images/AmberWavesCasino.jpg"
     },
     {
       "id": 44,
       "name": "Opal Oasis Casino",
       "description": "Shimmering opals and shimmering wins in this beautiful oasis.",
-      "photo_url": "https://example.com/images/opal_oasis_casino.jpg"
+      "photo": "/images/OpalOasisCasino.jpg"
     },
     {
       "id": 45,
       "name": "Topaz Temple Casino",
       "description": "A temple of topaz and riches waiting to be won.",
-      "photo_url": "https://example.com/images/topaz_temple_casino.jpg"
+      "photo": "/images/TopazTempleCasino.jpg"
     },
     {
       "id": 46,
       "name": "Garnet Glade Casino",
       "description": "A glade of garnet and endless gaming excitement.",
-      "photo_url": "https://example.com/images/garnet_glade_casino.jpg"
+      "photo": "/images/GarnetGladeCasino.jpg"
     },
     {
       "id": 47,
       "name": "Coral Cove Casino",
       "description": "Explore the coral reefs and discover hidden treasures.",
-      "photo_url": "https://example.com/images/coral_cove_casino.jpg"
+      "photo": "/images/CoralCoveCasino.jpg"
     },
     {
       "id": 48,
       "name": "Golden Grove Casino",
       "description": "A grove of golden trees and endless gaming opportunities.",
-      "photo_url": "https://example.com/images/golden_grove_casino.jpg"
+      "photo": "/images/GoldenGroveCasino.jpg"
     },
     {
       "id": 49,
       "name": "Emerald Enclave Casino",
       "description": "An enclave of emerald and endless gaming excitement.",
-      "photo_url": "https://example.com/images/emerald_enclave_casino.jpg"
+      "photo": "/images/EmeraldEnclaveCasino.jpg"
     },
     {
       "id": 50,
       "name": "Onyx Oasis Casino",
       "description": "A dark, mysterious oasis of onyx and exciting games.",
-      "photo_url": "https://example.com/images/onyx_oasis_casino.jpg"
+      "photo": "/images/OnyxOasisCasino.jpg"
     }
   ]
 }

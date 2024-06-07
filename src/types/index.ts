@@ -2,7 +2,7 @@ export interface Casino {
     id: number;
     name: string;
     description: string;
-    photo_url: string;
+    photo: string;
 }
 
 export interface CasinoList {

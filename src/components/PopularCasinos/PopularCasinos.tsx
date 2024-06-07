@@ -29,7 +29,7 @@ export const PopularCasinos = () => {
         <div className={s.wrapper_data}>
           {filteredCasinos.map((casino) => (
             <div key={casino.id} className={s.block}>
-              <img className={s.image} src={casino.photo_url} alt="image" />
+              <img className={s.image} src={casino.photo} alt="image" />
               <div className={s.name}>{casino.name}</div>
               <div className={s.description}>{casino.description}</div>
             </div>
